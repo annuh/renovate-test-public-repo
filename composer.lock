@@ -1,0 +1,43 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b610cd491f09b50acf29118c8e5a5b1b",
+    "packages": [
+        {
+            "name": "anne/renovate-test-private-repo",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/annuh/renovate-test-private-repo.git",
+                "reference": "ff9dea172b3a6c18251b26aca2879d13467fd7b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/annuh/renovate-test-private-repo/zipball/ff9dea172b3a6c18251b26aca2879d13467fd7b9",
+                "reference": "ff9dea172b3a6c18251b26aca2879d13467fd7b9",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "project",
+            "support": {
+                "source": "https://github.com/annuh/renovate-test-private-repo/tree/main",
+                "issues": "https://github.com/annuh/renovate-test-private-repo/issues"
+            },
+            "time": "2022-09-22T07:57:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "anne/renovate-test-private-repo": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "anne/renovate-test-public-repo",
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        }
+    },
+    "require": {
+        "anne/renovate-test-private-repo": "dev-main#ff9dea172b3a6c18251b26aca2879d13467fd7b9"
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/annuh/renovate-test-private-repo.git",
+            "type": "vcs"
+        }
+    ]
+}
